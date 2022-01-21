@@ -26,6 +26,7 @@ const autoscroll = () => {
 
     // Visible height
     const visibleHeight = $messages.offsetHeight
+    const visibleHeight123 = $messages.offsetHeight 
 
     // Height of messages container
     const containerHeight = $messages.scrollHeight
